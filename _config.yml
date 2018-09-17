@@ -22,6 +22,7 @@ sass:
 
 # Conversion
 markdown: kramdown
+remote theme: diezcami/arctic-fox-theme
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
