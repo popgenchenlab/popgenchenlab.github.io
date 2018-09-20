@@ -9,7 +9,7 @@ permalink: /research/
 # Research
 
 
-Our research focuses on the genomic basis of contemporary evolution in natural populations. We want to understand the contributions of different evolutionary forces in shaping patterns of variation across the genome through space and time, and to link genetic variation to variation in individual phenotypes, fitness, and eventually population dynamics. We answer these questions by developing genomic resources and statistical tools that combine evolutionary genomics and pedigree data from long-term demographic studies of vertebrates such as Florida Scrub-Jays and Soay Sheep.
+Our research focuses on the genomic basis of contemporary evolution in natural populations. We want to understand the contributions of different evolutionary forces in shaping patterns of variation across the genome through space and time, and to link genetic variation to variation in individual phenotypes, fitness, and eventually population dynamics. We answer these questions by developing genomic resources and statistical tools that combine evolutionary genomics and pedigree data from long-term demographic studies of vertebrates such as the Florida Scrub-Jay.
 
 
 ### Short-term evolutionary dynamics
