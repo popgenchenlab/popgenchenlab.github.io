@@ -45,6 +45,8 @@ National Academies of Science, Engineering, Medicine
 
 [Science faculty’s subtle gender biases favor male students](http://www.pnas.org/content/109/41/16474.full) - PNAS
 
+[How the entire scientific community can confront gender bias in the workplace](https://www.nature.com/articles/s41559-018-0747-4) - Nature Ecology and Evolution
+
 [Sexual Harassment of Women](http://sites.nationalacademies.org/shstudy/index.htm) - National Academies of Science, Engineering, Medicine
 
 [It's Time for Science and Academia to Address Sexual Misconduct](https://blogs.scientificamerican.com/voices/its-time-for-science-and-academia-to-address-sexual-misconduct/) - Scientific American Blog
@@ -58,6 +60,7 @@ National Academies of Science, Engineering, Medicine
 
 
 ### Some resources at the University of Rochester
+[Women in Biological Sciences](http://www.sas.rochester.edu/bio/sites/wibs/)<br>
 [Diversity and Inclusion on campus](https://www.rochester.edu/diversity/)<br>
 [The CARE Network](https://www.rochester.edu/care/)<br>
 [Disability Services and Support](https://www.rochester.edu/disability/)<br>
