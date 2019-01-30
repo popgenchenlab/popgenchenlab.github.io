@@ -41,6 +41,13 @@ I am currently a junior double majoring in Computational Biology and Psychology,
 
 <br><br><br><br><br><br><br><br><br>
 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Tiffany.jpg){: style="width: 300px; float: left; border: 10px"}
+### Tiffany Dias - *Undergraduate Researcher*
+
+Tiffany is a senior majoring in Computational Biology and International Relations. She is interested in computational research that aims to answer questions in population genetics and evolutionary genomics. Outside of biology, she is also interested in sustainability, learning languages, and travelling. In the future, she hopes to have a career in endangered species conservation. 
+
+<br><br><br><br><br><br><br><br><br>
+
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Matt.JPG){: style="width: 350px; float: left; border: 10px"}
 ### Matthew Le - *Undergraduate Researcher*
 
