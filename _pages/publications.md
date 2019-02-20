@@ -15,7 +15,7 @@ permalink: /publications/
 <br>
 
 ### **Published**
-**Chen N**, Juric I, Cosgrove EJ, Bowman R, Fitzpatrick JW, Schoech SJ, Clark AG, Coop GM. 2018. Allele frequency dynamics in a pedigreed natural population. [*PNAS* doi: 10.1073/pnas.1813852116.](https://doi.org/10.1073/pnas.1813852116) <br>
+**Chen N**, Juric I, Cosgrove EJ, Bowman R, Fitzpatrick JW, Schoech SJ, Clark AG, Coop GM. 2019. Allele frequency dynamics in a pedigreed natural population. [*PNAS* 116(6): 2158-2164.](https://doi.org/10.1073/pnas.1813852116) <br>
 \*Associated [PNAS Commentary](https://www.pnas.org/content/early/2019/01/10/1820938116).
 <br> <br>
 
