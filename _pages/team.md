@@ -12,13 +12,13 @@ permalink: /people/
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/NCjay2.jpeg){: style="width: 350px; float: left; border: 10px"}
 ### Nancy Chen - *Principal Investigator*
 
-I am an evolutionary biologist interested in the genomic basis of contemporary evolution in natural populations. My research integrates genomics and long-term demographic studies with pedigree data to characterize the evolutionary processes shaping patterns of variation across the genome through space and time. I earned my Ph.D. with Andy Clark and John Fitzpatrick at Cornell University and then did a postdoc with Graham Coop at UC Davis before joining the faculty at the University of Rochester in 2018. [CV](https://www.dropbox.com/s/d6k6cgm0a9i8ftd/NancyCVSept2018.pdf?dl=0) 
+I am an evolutionary biologist interested in the genomic basis of contemporary evolution in natural populations. My research integrates genomics and long-term demographic studies with pedigree data to characterize the evolutionary processes shaping patterns of variation across the genome through space and time. I earned my Ph.D. with Andy Clark and John Fitzpatrick at Cornell University and then did a postdoc with Graham Coop at UC Davis before joining the faculty at the University of Rochester in 2018. [CV](https://www.dropbox.com/s/zzf3civc9w92tvp/NancyCVApril2019.pdf?dl=0) 
 
 Email: nancy.chen@rochester.edu <br>
-Office: 477 Hutchinson <br>
 Phone: 585-276-7149 <br>
 Twitter: [@popgenchen](https://twitter.com/popgenchen) <br>
-<br>
+Pronouns: she/her/hers
+<br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Lindsey.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Lindsey Perrin - *Lab Technician*
@@ -26,6 +26,13 @@ Twitter: [@popgenchen](https://twitter.com/popgenchen) <br>
 Lindsey Perrin studied ecology and evolutionary biology at the University of Rochester as an undergraduate student. She loves biology and is interested in studying genomics and evolutionary genetics while pursuing a career in research. 
 
 <br><br><br><br><br><br><br><br>
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Jeremy.jpg){: style="width: 300px; float: left; border: 60px"}
+### Jeremy Summers - *Graduate Student*
+
+Jeremy is an E2G2 student interested in how population demography and habitat conditions affect short-term evolution and population growth or decline. He studied environmental engineering at Carnegie Melon University as an undergrad. He loves the diversity of life that has existed in the past and still exists today, and hopes to contribute to conserving that diversity through his research.
+
+<br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Martha.jpeg){: style="width: 300px; float: left; border: 60px"}
 ### Martha Hoffman - *Research Intern*
@@ -69,12 +76,13 @@ I am a junior from Lake Placid, New York currently majoring in Computational Bio
 
 [John Fitzpatrick](http://ecologyandevolution.cornell.edu/john-weaver-fitzpatrick), Cornell Lab of Ornithology
 
+[Steve Schoech](https://umdrive.memphis.edu/sschoech/www/), University of Memphis
+
 [Susan Johnston](https://sejohnston.com/), University of Edinburgh
 
 [Josephine Pemberton](http://pemberton.bio.ed.ac.uk/home), University of Edinburgh
 
-[Steve Schoech](https://umdrive.memphis.edu/sschoech/www/), University of Memphis
-
+[Andrew McAdam](http://www.mcadamlab.ca/), University of Guelph
 
 
 

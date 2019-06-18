@@ -14,7 +14,7 @@ permalink: /publications/
 <img src = "{{ site.url}}{{ site.baseurl}}/images/pubpic/PLOSgeneticsAug2017cover.png" class="img-responsive" width = "25%" style="float: right; padding-left: 15px" />
 <br>
 
-### **Published**
+### **Peer-reviewed**
 **Chen N**, Juric I, Cosgrove EJ, Bowman R, Fitzpatrick JW, Schoech SJ, Clark AG, Coop GM. 2019. Allele frequency dynamics in a pedigreed natural population. [*PNAS* 116(6): 2158-2164.](https://doi.org/10.1073/pnas.1813852116) <br>
 \*Associated [PNAS Commentary](https://www.pnas.org/content/early/2019/01/10/1820938116).
 <br> <br>
@@ -45,7 +45,10 @@ Canfield MR, Greene E, Moreau CS, **Chen N**, Pierce NE. 2008. Exploring phenoty
 **Chen N**, Gascoin F, Muller E, Karpinski G, Stiewe C, Snyder GJ. 2005. Macroscopic thermoelectric inhomogeneities of (AgSbTe2)<sub>x</sub>(PbTe)<sub>1-x</sub>. [*Applied Physics Letters* 87: 171903.](http://scitation.aip.org/content/aip/journal/apl/87/17/10.1063/1.2056590) <br>
 <br>
 
-### **Blog Posts**
+### **Other**
+**Chen N**. 2019. Conservation: Bye-bye to the Hihi? [*Current Biology*, 29(6): R218-R220.](https://doi.org/10.1016/j.cub.2019.02.013) <br>
+<br>
+
 Aguillon SM, **Chen N**. Understanding Images: How dispersal shapes spatial patterns of genetic diversity. [*PLOS Biologue*, 19 October 2017.](http://blogs.plos.org/biologue/2017/10/19/understanding-images-how-dispersal-shapes-spatial-patterns-of-genetic-diversity/) <br>
 <br>
 

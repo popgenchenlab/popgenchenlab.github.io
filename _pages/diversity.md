@@ -73,6 +73,7 @@ National Academies of Science, Engineering, Medicine
 [Safe Space program](https://www.rochester.edu/diversity/staff/safe-space/)<br>
 [University Intercessor](https://www.rochester.edu/intercessor/)<br>
 [We're better than THAT anti-racism campaign](https://www.rochester.edu/better-than-that/)<br>
+[M.K. Gandhi Institute for Nonviolence](https://gandhiinstitute.org/)<br>
 <br>
 
 (Thank you [Emily Josephs](https://josephslab.github.io/resources/), [Marjorie Weber](http://www.theweberlab.com/diversity-in-stem.html), and [Scott Taylor](https://www.colorado.edu/lab/taylor/diversity-stem) for inspiration)
