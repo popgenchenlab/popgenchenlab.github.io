@@ -6,8 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<br>
-<img src = "{{ site.url}}{{ site.baseurl}}/images/RaazPed.jpg" class="img-responsive" width = "38%" style="float: right; padding-left: 10px" />
+<img src = "{{ site.url}}{{ site.baseurl}}/images/ChenLabLogo.png" class="img-responsive" width = "90%" style="float: center; padding-left: 50px" />
 <br>
 Welcome to Chen Lab at the University of Rochester! We seek to understand the evolutionary processes that shape patterns of genetic variation over contemporary timescales. Much of our work combines genomics with extensive pedigree data from long-term demographic studies to answer questions in evolutionary biology and conservation genomics.
 
