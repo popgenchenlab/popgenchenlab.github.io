@@ -15,6 +15,9 @@ permalink: /publications/
 <br>
 
 ### **Peer-reviewed**
+Wagner DN, Curry RL, **Chen N**, Lovette IJ, Taylor SA. 2020. Consistent selection on genes underlying metabolic and neural signaling pathways in a moving avian hybrid zone. [*Evolution* 74: 1498-1513.](https://doi.org/10.1111/evo.13970) <br>
+<br>
+
 **Chen N**, Juric I, Cosgrove EJ, Bowman R, Fitzpatrick JW, Schoech SJ, Clark AG, Coop GM. 2019. Allele frequency dynamics in a pedigreed natural population. [*PNAS* 116(6): 2158-2164.](https://doi.org/10.1073/pnas.1813852116) <br>
 \*Associated [PNAS Commentary](https://www.pnas.org/content/early/2019/01/10/1820938116).
 <br> <br>
@@ -46,7 +49,10 @@ Canfield MR, Greene E, Moreau CS, **Chen N**, Pierce NE. 2008. Exploring phenoty
 <br>
 
 ### **Other**
-**Chen N**. 2019. Conservation: Bye-bye to the Hihi? [*Current Biology*, 29(6): R218-R220.](https://doi.org/10.1016/j.cub.2019.02.013) <br>
+**Chen N**. 2020. A gene for color differences between sexes. [*Science* 368(6496): 1185-1186.](https://science.sciencemag.org/content/368/6496/1185.abstract) <br>
+<br>
+
+**Chen N**. 2019. Conservation: Bye-bye to the Hihi? [*Current Biology* 29(6): R218-R220.](https://doi.org/10.1016/j.cub.2019.02.013) <br>
 <br>
 
 Aguillon SM, **Chen N**. Understanding Images: How dispersal shapes spatial patterns of genetic diversity. [*PLOS Biologue*, 19 October 2017.](http://blogs.plos.org/biologue/2017/10/19/understanding-images-how-dispersal-shapes-spatial-patterns-of-genetic-diversity/) <br>
