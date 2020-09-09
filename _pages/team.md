@@ -69,7 +69,7 @@ Gladiana is a junior majoring in Computational Biology.  She is interested in us
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Ceylin.JPG){: style="width: 350px; float: left; border: 60px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/ceylin.JPG){: style="width: 350px; float: left; border: 60px"}
 ### Ceylin Zeybek - *Visiting Undergraduate Researcher*
 
 I am a senior majoring in Molecular Biology and Genetics at Bilkent University, Turkey. I'm interested in evolution and its impact on everything ranging from populations to individual microorganisms. I am highly motivated to learn different evolutionary biology related phenomena that I could not study under my major. Outside of my career, I enjoy winter sports and rock climbing. As a summer visitor of Chen lab, I want to understand how the environmental conditions and inbreeding shape the genomic variation of the endangered Florida Scrub-Jay population. I am very happy as being the part of this lab!
