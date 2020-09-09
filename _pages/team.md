@@ -67,7 +67,14 @@ I am a junior from Lake Placid, New York currently majoring in Computational Bio
 
 Gladiana is a junior majoring in Computational Biology.  She is interested in using computational methods to learn more about species' interacting phenotypes and genotypes. Outside of the classroom, she's passionate about human rights, conservation, and art. She wants to keep learning about everything for her career and hopefully be a positive influence on what she studies.
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Ceylin.JPG){: style="width: 350px; float: left; border: 60px"}
+### Ceylin Zeybek - *Visiting Undergraduate Researcher*
+
+I am a senior majoring in Molecular Biology and Genetics at Bilkent University, Turkey. I'm interested in evolution and its impact on everything ranging from populations to individual microorganisms. I am highly motivated to learn different evolutionary biology related phenomena that I could not study under my major. Outside of my career, I enjoy winter sports and rock climbing. As a summer visitor of Chen lab, I want to understand how the environmental conditions and inbreeding shape the genomic variation of the endangered Florida Scrub-Jay population. I am very happy as being the part of this lab!
+
+<br><br><br><br><br>
 
 #### **The Chen lab is recruiting motivated undergrads, grad students, and postdocs. Please contact me if you're interested in joining the lab!**
 <br>
