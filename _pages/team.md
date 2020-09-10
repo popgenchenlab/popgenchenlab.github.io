@@ -80,13 +80,15 @@ I am a senior majoring in Molecular Biology and Genetics at Bilkent University, 
 <br>
 
 ### Lab Alumni
-Jonathan Chow
+Jonathan Chow (undergraduate researcher) - now a MS student at Georgia Tech
 
-Tiffany Dias
+Bo Zhou (undergraduate researcher) - now a MEng student at UC Berkeley
 
-Martha Hoffman
+Rose Driscoll (Ph.D. rotation student) - now a Ph.D. student in the Brisson lab
 
-Bo Zhou
+Tiffany Dias (undergraduate researcher) - now a Ph.D. student at the University of Michigan
+
+Martha Hoffman (post-bac research intern) - now a vet student at Cornell
 
 ### Collaborators
 [Reed Bowman](http://www.archbold-station.org/html/aboutus/staffpages/rbowman/rbowman.html), Archbold Biological Station
