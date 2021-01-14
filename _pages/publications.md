@@ -15,6 +15,9 @@ permalink: /publications/
 <br>
 
 ### **Peer-reviewed**
+Feng S, Stiller J, Deng Y. *et al.* (author 68). 2020. Dense sampling of bird diversity increases power of comparative genomics. [*Nature* 587: 252–257.](https://doi.org/10.1038/s41586-020-2873-9) <br>
+<br>
+
 Wagner DN, Curry RL, **Chen N**, Lovette IJ, Taylor SA. 2020. Consistent selection on genes underlying metabolic and neural signaling pathways in a moving avian hybrid zone. [*Evolution* 74: 1498-1513.](https://doi.org/10.1111/evo.13970) <br>
 <br>
 
