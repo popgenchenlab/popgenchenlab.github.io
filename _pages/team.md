@@ -44,7 +44,7 @@ Lindsey Perrin studied ecology and evolutionary biology at the University of Roc
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Jeremy.jpg){: style="width: 300px; float: left; border: 60px"}
 ### Jeremy Summers - *Graduate Student*
 
-Jeremy is an E2G2 student interested in how population demography and habitat conditions affect short-term evolution and population growth or decline. He studied environmental engineering at Carnegie Melon University as an undergrad. He loves the diversity of life that has existed in the past and still exists today, and hopes to contribute to conserving that diversity through his research.
+Jeremy is a PhD student interested in the causes of population decline and the role of dispersal in demographic and evolutionary trajectories. Using population level demography, individual fitness variation, and population genetics, he is investigating how dispersal into preserved Florida Scrub-Jay habitat contributes to population growth and levels of genetic variation. Jeremy is also interested in teaching evolutionary biology with an emphasis on diversity at every level of organization and the ways humans shape and interact with our local ecosystems.
 
 <br><br><br><br><br><br><br>
 
@@ -81,7 +81,14 @@ Gladiana is a junior majoring in Computational Biology. She is interested in usi
 
 I am a senior majoring in Molecular Biology and Genetics at Bilkent University, Turkey. I'm interested in evolution and its impact on everything ranging from populations to individual microorganisms. I am highly motivated to learn different evolutionary biology related phenomena that I could not study under my major. Outside of my career, I enjoy winter sports and rock climbing. As a summer visitor of Chen lab, I want to understand how the environmental conditions and inbreeding shape the genomic variation of the endangered Florida Scrub-Jay population. I am very happy as being the part of this lab!
 
-<br><br><br><br><br>
+<br><br><br><br>
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/DashiEspurr.jpg){: style="width: 350px; float: left; border: 60px"}
+### Dashi and Espurr - *Lab pets*
+
+Dashi and Espurr are second-year cats with broad interests including displays of affection, sleeping, and occasionally learning tricks. Dashi is our resident entomologist and wants to investigate the culinary uses of insects, if his lab-mate Jeremy would let him catch any. Espurr is specializing in botany and has discovered that frequent face rubbing with plants triggers a strong purr response in herself.
+
+<br><br><br><br><br><br><br><br><br><br>
 
 #### **The Chen lab is recruiting motivated undergrads, grad students, and postdocs. Please contact me if you're interested in joining the lab!**
 <br>
@@ -95,11 +102,18 @@ Jonathan Chow (undergraduate researcher) - now a MS student at Georgia Tech
 
 Bo Zhou (undergraduate researcher) - now a MEng student at UC Berkeley
 
-Rose Driscoll (Ph.D. rotation student) - now a Ph.D. student in the Brisson lab
-
 Tiffany Dias (undergraduate researcher) - now a Ph.D. student at the University of Michigan
 
 Martha Hoffman (post-bac research intern) - now a vet student at Cornell
+
+Ph.D. rotation students: Maria Isabel Castano, Rose Driscoll, Matthew Lindsay
+<br>
+
+<p float="left">
+  <img src="/images/teampic/Martha.jpeg" width="250" />
+  <img src="/images/teampic/Tiffany.jpg" width="250" /> 
+  <img src="/images/teampic/Tamanna.jpeg" width="250" />
+</p>
 
 ### Collaborators
 [Reed Bowman](http://www.archbold-station.org/html/aboutus/staffpages/rbowman/rbowman.html), Archbold Biological Station
