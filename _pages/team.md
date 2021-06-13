@@ -12,10 +12,9 @@ permalink: /people/
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/NCjay2.jpeg){: style="width: 350px; float: left; border: 10px"}
 ### Nancy Chen - *Principal Investigator*
 
-I am an evolutionary biologist interested in the genomic basis of contemporary evolution in natural populations. My research integrates genomics and long-term demographic studies with pedigree data to characterize the evolutionary processes shaping patterns of variation across the genome through space and time. I earned my Ph.D. with Andy Clark and John Fitzpatrick at Cornell University and then did a postdoc with Graham Coop at UC Davis before joining the faculty at the University of Rochester in 2018. [CV](https://www.dropbox.com/s/zzf3civc9w92tvp/NancyCVApril2019.pdf?dl=0) 
+Nancy is an evolutionary biologist interested in the genomic basis of contemporary evolution in natural populations. Her research integrates genomics and long-term demographic studies with pedigree data to characterize the evolutionary processes shaping patterns of variation across the genome through space and time. Nancy earned her Ph.D. with Andy Clark and John Fitzpatrick at Cornell University and then did a postdoc with Graham Coop at UC Davis before moving to Rochester in 2018. She is committed to promoting justice, equity, diversity, and inclusion in STEM. In her free time, Nancy enjoys running, hiking, cooking, and playing board games. [CV](https://www.dropbox.com/s/zzf3civc9w92tvp/NancyCVApril2019.pdf?dl=0) 
 
 Email: nancy.chen@rochester.edu <br>
-Phone: 585-276-7149 <br>
 Twitter: [@popgenchen](https://twitter.com/popgenchen) <br>
 Pronouns: she/her/hers
 <br><br>
@@ -34,12 +33,12 @@ Elsie wants to understand how behavior, ecology, and the environment interact to
 
 <br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Lindsey.jpg){: style="width: 350px; float: left; border: 10px"}
-### Lindsey Perrin - *Graduate Student*
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Faye.jpg){: style="width: 300px; float: left; border: 10px"}
+### Faye Romero - *Graduate Student*
 
-Lindsey Perrin studied ecology and evolutionary biology at the University of Rochester as an undergraduate student. She loves biology and is interested in studying genomics and evolutionary genetics while pursuing a career in research. 
+Faye is an incoming PhD student interested in using population genomics to study, and ultimately predict, organismal responses to human-induced environmental change. She received her undergraduate degree in Molecular Environmental Biology from UC Berkeley, where she primarily researched phenotypic evolution in Anna’s and Broad-tailed Hummingbirds. Faye also enjoys promoting science education, fantasy books, and dancing.
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Jeremy.jpg){: style="width: 300px; float: left; border: 60px"}
 ### Jeremy Summers - *Graduate Student*
@@ -48,13 +47,6 @@ Jeremy is a PhD student interested in the causes of population decline and the r
 
 <br><br><br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Michaela.png){: style="width: 300px; float: left; border: 10px"}
-### Michaela Burrell - *Undergraduate Researcher*
-
-Michaela is a Take 5 Scholar, majoring in Ecology and Evolutionary Biology with a minor in Computational Biology. She is interested in conservation biology, specifically conservation issues involving bird species. Michaela is a captain of Rochester’s Varsity Track and Field Team. Each migration season, she is a volunteer at the Braddock Bay Bird Observatory. 
-
-<br><br><br><br><br><br><br><br><br><br><br><br>
-
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Kristin.png){: style="width: 300px; float: left; border: 10px"}
 ### Kristin Hardy - *Undergraduate Researcher*
 
@@ -62,57 +54,72 @@ Kristin is an undergraduate majoring in molecular genetics. She is interested in
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Matt.JPG){: style="width: 350px; float: left; border: 10px"}
-### Matthew Le - *Undergraduate Researcher*
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Sid.JPG){: style="width: 300px; float: left; border: 10px"}
+### Siddarth Seenivasa - *Undergraduate Researcher*
 
-Matt is from Lake Placid, New York currently majoring in Computational Biology and minoring in Chinese. In my free time, I enjoy playing basketball, piano and video games. I am not exactly sure what it is that I am interested in yet but I enjoy learning and am very excited to work in the lab this semester. So I guess another way to put it is that, as of right now, I am interested in everything!
-
-<br><br><br><br><br><br><br><br>
-
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Gladiana.jpg){: style="width: 300px; float: left; border: 60px"}
-### Gladiana Spitz - *Undergraduate Researcher*
-
-Gladiana is a junior majoring in Computational Biology. She is interested in using computational methods to learn more about species' interacting phenotypes and genotypes. Outside of the classroom, she's passionate about human rights, conservation, and art. She wants to keep learning about everything for her career and hopefully be a positive influence on what she studies.
+Sid hails from Dallas, TX and is currently majoring in Molecular Genetics and ASL. He is interested in methods development for analyzing genomic data and is excited to learn more about population genetics. When he’s not hunched over his desk, Sid is either writing music for his band or podcasting with his friends (Certified Loverboys on Spotify). He is always down to grab food and talk research or exchange languages!
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/ceylin.JPG){: style="width: 350px; float: left; border: 60px"}
-### Ceylin Zeybek - *Visiting Undergraduate Researcher*
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Bailey.jpeg){: style="width: 300px; float: left; border: 10px"}
+### Bailey Jones - *Visiting Undergraduate Researcher*
 
-I am a senior majoring in Molecular Biology and Genetics at Bilkent University, Turkey. I'm interested in evolution and its impact on everything ranging from populations to individual microorganisms. I am highly motivated to learn different evolutionary biology related phenomena that I could not study under my major. Outside of my career, I enjoy winter sports and rock climbing. As a summer visitor of Chen lab, I want to understand how the environmental conditions and inbreeding shape the genomic variation of the endangered Florida Scrub-Jay population. I am very happy as being the part of this lab!
+Bailey is a rising senior at Swarthmore College majoring in Biology with a minor in Classical Studies. She is eager to build upon knowledge from past coursework in honing a deeper understanding and appreciation of population genomics and conservation through her work in the Chen Lab. As a summer visitor, she will be quantifying the effect of helpers in the cooperatively breeding Florida Scrub-Jay. Outside of the classroom, she enjoys playing the guitar and language learning.
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/DashiEspurr.jpg){: style="width: 350px; float: left; border: 60px"}
 ### Dashi and Espurr - *Lab pets*
 
 Dashi and Espurr are second-year cats with broad interests including displays of affection, sleeping, and occasionally learning tricks. Dashi is our resident entomologist and wants to investigate the culinary uses of insects, if his lab-mate Jeremy would let him catch any. Espurr is specializing in botany and has discovered that frequent face rubbing with plants triggers a strong purr response in herself.
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Minka.JPG){: style="width: 350px; float: left; border: 60px"}
+### Minka - *Lab pet*
+
+Minka is a springerdoodle who is currently growing and learning a lot. She loves chewing on sticks and wants to play with every person/dog/cat she meets.
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 #### **The Chen lab is recruiting motivated undergrads, grad students, and postdocs. Please contact me if you're interested in joining the lab!**
 <br>
 
 ### Lab Alumni
-Tamanna Bhatia (undergraduate researcher)
+Tamanna Bhatia (undergraduate)
 
-Syed Ars Ghani (undergraduate researcher)
+Michaela Burrell (undergraduate)
 
-Jonathan Chow (undergraduate researcher) - now a MS student at Georgia Tech
+Jonathan Chow (undergraduate) - now a MS student at Georgia Tech
 
-Bo Zhou (undergraduate researcher) - now a MEng student at UC Berkeley
+Tiffany Dias (undergraduate) - now a PhD student at the University of Michigan
 
-Tiffany Dias (undergraduate researcher) - now a Ph.D. student at the University of Michigan
+Syed Ars Ghani (undergraduate) - now a Take 5 Scholar
 
 Martha Hoffman (post-bac research intern) - now a vet student at Cornell
+
+Matthew Le (undergraduate) - now a MS student at USC
+
+Lindsey Perrin (Master's student) - now an artist and animal care attendant
+
+Gladiana Spitz (undergraduate) - now a PhD student at CU Boulder
+
+Ceylin Zeybek (visiting undergraduate) - now a PhD student at SUNY Buffalo
+
+Bo Zhou (undergraduate) - now a MEng student at UC Berkeley
 
 Ph.D. rotation students: Maria Isabel Castano, Rose Driscoll, Matthew Lindsay
 <br>
 
 <p float="left">
-  <img src="/images/teampic/Martha.jpeg" width="250" />
-  <img src="/images/teampic/Tiffany.jpg" width="250" /> 
   <img src="/images/teampic/Tamanna.jpeg" width="250" />
+  <img src="/images/teampic/Michaela.png" width="250" />
+  <img src="/images/teampic/Tiffany.jpg" width="250" /> 
+  <img src="/images/teampic/Martha.jpeg" width="250" />
+  <img src="/images/teampic/Matt.JPG" width="250" />
+  <img src="/images/teampic/Lindsey.jpg" width="250" />
+  <img src="/images/teampic/Gladiana.jpg" width="250" />
+  <img src="/images/teampic/ceylin.JPG" width="250" />
 </p>
 
 ### Collaborators
@@ -130,8 +137,9 @@ Ph.D. rotation students: Maria Isabel Castano, Rose Driscoll, Matthew Lindsay
 
 [Josephine Pemberton](http://pemberton.bio.ed.ac.uk/home), University of Edinburgh
 
-[Andrew McAdam](http://www.mcadamlab.ca/), University of Guelph
+[Andrew McAdam](http://www.mcadamlab.ca/), CU Boulder
 
+[Andrea Townsend](https://hamiltoncs.org/townsend/), Hamilton College
 
 
 

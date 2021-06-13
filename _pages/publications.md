@@ -15,6 +15,9 @@ permalink: /publications/
 <br>
 
 ### **Peer-reviewed**
+Cowles S, Weeks BC, **Perrin L**, **Chen N**, Uy JAC. 2021. Estimates of adult census size and effective population size support the need for continued protection of two Solomon Island endemics. [*Emu - Austral Ornithology*. DOI: 10.1080/01584197.2021.1915163.](https://doi.org/10.1080/01584197.2021.1915163) <br>
+<br>
+
 Feng S, Stiller J, Deng Y. *et al.* (author 68). 2020. Dense sampling of bird diversity increases power of comparative genomics. [*Nature* 587: 252–257.](https://doi.org/10.1038/s41586-020-2873-9) <br>
 <br>
 
@@ -64,3 +67,7 @@ Aguillon SM, **Chen N**. Understanding Images: How dispersal shapes spatial patt
 **Chen N**. How a Love of “Story Problems” Changed the World of Breast Cancer. [*Scientific American*, 24 April 2012.](http://blogs.scientificamerican.com/guest-blog/how-a-love-of-story-problems-changed-the-world-of-breast-cancer/) <br>
 <br>
  
+### **Preregistrations**
+Logan CJ, McCune KB, MacPherson M, **Chen N**, Lukas D. Implementing a rapid geographic range expansion - the role of behavior and habitat changes. In principle acceptance by PCI Ecology of the version on 6 Oct 2020. [https://github.com/corinalogan/grackles/blob/master/Files/Preregistrations/gxpopbehaviorhabitat.Rmd.](https://github.com/corinalogan/grackles/blob/master/Files/Preregistrations/gxpopbehaviorhabitat.Rmd) <br>
+<br>
+
