@@ -15,7 +15,10 @@ permalink: /publications/
 <br>
 
 ### **Peer-reviewed**
-Cowles S, Weeks BC, **Perrin L**, **Chen N**, Uy JAC. 2021. Estimates of adult census size and effective population size support the need for continued protection of two Solomon Island endemics. [*Emu - Austral Ornithology*. DOI: 10.1080/01584197.2021.1915163.](https://doi.org/10.1080/01584197.2021.1915163) <br>
+Baud A, McPeek S, **Chen N**, Hughes K. 2021. Indirect Genetic Effects: A Cross-disciplinary Perspective on Empirical Studies. [*J Hered*: esab059](https://doi.org/10.1093/jhered/esab059) <br>
+<br>
+
+Cowles S, Weeks BC, **Perrin L**, **Chen N**, Uy JAC. 2021. Estimates of adult census size and effective population size support the need for continued protection of two Solomon Island endemics. [*Emu - Austral Ornithology* 121: 45-54.](https://doi.org/10.1080/01584197.2021.1915163) <br>
 <br>
 
 Feng S, Stiller J, Deng Y. *et al.* (author 68). 2020. Dense sampling of bird diversity increases power of comparative genomics. [*Nature* 587: 252–257.](https://doi.org/10.1038/s41586-020-2873-9) <br>

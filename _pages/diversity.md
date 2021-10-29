@@ -1,20 +1,20 @@
 ---
-title: "Chen Lab - Diversity in STEM"
+title: "Chen Lab - DEI in STEM"
 layout: gridlay
-excerpt: "Chen Lab: Diversity in STEM"
+excerpt: "Chen Lab: DEI in STEM"
 sitemap: false
 permalink: /diversity/
 ---
 
-# Diversity and Inclusion in STEM
+# Equity and Inclusion in STEM
 <img src = "{{ site.url}}{{ site.baseurl}}/images/diversity1.png" class="img-responsive" width = "45%" style="float: right; padding-left: 10px" />
 
 ### The Chen lab is a safe space.
 
-The lack of diversity in STEM is an important issue, and one that I care deeply about and am dedicated to help address. I believe that it is our responsibility to educate ourselves about diversity issues in STEM, learn how best to combat bias, and work to promote social equality and build inclusive communities. I am always happy to talk about these and related issues, and will actively work to help make STEM more inclusive and welcoming to all.
+The lack of diversity in STEM is an important issue, and one that I care deeply about and am dedicated to help address. I believe that it is our responsibility to educate ourselves about social justice issues in STEM, learn how best to combat bias, and work to promote social equity and build inclusive communities. I am always happy to talk about these and related issues, and will actively work to help make STEM more inclusive and welcoming to all.
 
 
-### A growing list of diversity resources
+### A growing list of JEDI resources
 
 [Diversity in Stem: What It Is and Why It Matters](https://blogs.scientificamerican.com/voices/diversity-in-stem-what-it-is-and-why-it-matters/) - Scientific American Blog
 
@@ -60,7 +60,7 @@ National Academies of Science, Engineering, Medicine
 
 
 ### Some resources at the University of Rochester
-[Women in Biological Sciences](http://www.sas.rochester.edu/bio/sites/wibs/)<br>
+[Diversity & Inclusion in Biological Sciences](http://www.sas.rochester.edu/bio/sites/wibs/)<br>
 [Diversity and Inclusion on campus](https://www.rochester.edu/diversity/)<br>
 [The CARE Network](https://www.rochester.edu/care/)<br>
 [Disability Services and Support](https://www.rochester.edu/disability/)<br>
