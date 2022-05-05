@@ -15,6 +15,8 @@ permalink: /publications/
 <br>
 
 ### **Peer-reviewed**
+Cheek R, Forester B, Salerno P, Trumbo D, **Chen N**, Sillett TS, Morrison S, Ghalambor C, Funk, WC. 2022. Habitat-linked genetic variation supports microgeographic adaptive divergence in an island-endemic bird species. [*Molecular Ecology* 00: 1-17](https://doi.org/10.1111/mec.16438).
+
 Baud A, McPeek S, **Chen N**, Hughes K. 2021. Indirect Genetic Effects: A Cross-disciplinary Perspective on Empirical Studies. [*J Hered*: esab059](https://doi.org/10.1093/jhered/esab059) <br>
 <br>
 
