@@ -15,10 +15,22 @@ permalink: /publications/
 <br>
 
 ### **Peer-reviewed**
-Cheek R, Forester B, Salerno P, Trumbo D, **Chen N**, Sillett TS, Morrison S, Ghalambor C, Funk, WC. 2022. Habitat-linked genetic variation supports microgeographic adaptive divergence in an island-endemic bird species. [*Molecular Ecology* 00: 1-17](https://doi.org/10.1111/mec.16438). <br>
+Johnston SE, **Chen N**, Josephs EB. Taking quantitative genomics into the wild. [*Proc R Soc B* 289: 20221930.](https://royalsocietypublishing.org/doi/10.1098/rspb.2022.1930)<br>
 <br>
 
-Baud A, McPeek S, **Chen N**, Hughes K. 2021. Indirect Genetic Effects: A Cross-disciplinary Perspective on Empirical Studies. [*J Hered*: esab059](https://doi.org/10.1093/jhered/esab059) <br>
+Nguyen T, **Chen N**, Cosgrove EJ, Bowman R, Fitzpatrick JW, Clark A. 2022. Dynamics of reduced genetic diversity in increasingly fragmented populations of Florida Scrub-Jays, *Aphelocoma coerulescens*. [*Evolutionary Applications* 15: 1018-1027.](https://onlinelibrary.wiley.com/doi/10.1111/eva.13421)<br>
+<br>
+
+DeRaad DA, McCormack JE, **Chen N**, Peterson AT, Moyle RG. 2022. Combining Species Delimitation, Species Trees, and Tests for Gene Flow Illuminates Complex Speciation in Scrub-Jays. [*Systematic Biology* 71(6): 1453–1470.](https://doi.org/10.1093/sysbio/syac034) <br>
+<br>
+
+Cheek R, Forester B, Salerno P, Trumbo D, **Chen N**, Sillett TS, Morrison S, Ghalambor C, Funk, WC. 2022. Habitat-linked genetic variation supports microgeographic adaptive divergence in an island-endemic bird species. [*Molecular Ecology* 00: 1-17.](https://doi.org/10.1111/mec.16438) <br>
+<br>
+
+Kamath A, Velocci B, Wesner A, **Chen N**, Formica V, Subramaniam B, Rebolleda-Gómez M. 2022. Nature, Data, and Power: How Hegemonies Shaped this Special Section. [*American Naturalist* 200(1): 81-88.](https://www.journals.uchicago.edu/doi/10.1086/720001) <br>
+<br>
+
+Baud A, McPeek S, **Chen N**, Hughes K. 2021. Indirect Genetic Effects: A Cross-disciplinary Perspective on Empirical Studies. [*J Hered* 113: 1-15.](https://doi.org/10.1093/jhered/esab059) <br>
 <br>
 
 Cowles S, Weeks BC, **Perrin L**, **Chen N**, Uy JAC. 2021. Estimates of adult census size and effective population size support the need for continued protection of two Solomon Island endemics. [*Emu - Austral Ornithology* 121: 45-54.](https://doi.org/10.1080/01584197.2021.1915163) <br>
