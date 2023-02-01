@@ -17,7 +17,7 @@ Nancy is an evolutionary biologist interested in the genomic basis of contempora
 Email: nancy.chen@rochester.edu <br>
 Twitter: [@popgenchen](https://twitter.com/popgenchen) <br>
 Pronouns: she/her/hers
-<br><br>
+<br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/ElizabethFlesch.jpg){: style="width: 350px; float: left; border: 60px"}
 ### Elizabeth Flesch - *Postdoctoral Scholar (co-advised by Jay Rotella)*
@@ -64,14 +64,14 @@ Pronouns: she/her/hers
 
 <br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Jeremy.jpg){: style="width: 350px; float: left; border: 60px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/JeremySummers.jpg){: style="width: 350px; float: left; border: 60px"}
 ### Jeremy Summers - *Graduate Student*
 
 Jeremy is a PhD student interested in the causes of population decline and the role of dispersal in demographic and evolutionary trajectories. Using population level demography, individual fitness variation, and population genetics, he is investigating how dispersal into preserved Florida Scrub-Jay habitat contributes to population growth and levels of genetic variation. Jeremy is also interested in teaching evolutionary biology with an emphasis on diversity at every level of organization and the ways humans shape and interact with our local ecosystems. For more, see [Jeremy’s website](https://jsummerspopbio.wordpress.com/).
 
 Pronouns: he/him/his
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/AbbyEckert.png){: style="width: 350px; float: left; border: 10px"}
 ### Abby Eckert - *Undergraduate Researcher*
@@ -94,11 +94,11 @@ Pronouns: she/her/hers
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Xuewen.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Xuewen Geng - *Undergraduate Researcher*
 
-Xuewen is an undergraduate majoring in EEB and Philosophy at University of Rochester. She is interested in population ecology and is excited to learn more about the relationship between environment and ecological niches in the Chen Lab. In this lab, she is currently working on a project about how environment shapes the distribution of Olympic gull. Besides studying, she enjoys reading, baking, crocheting and painting. She is always happy to discuss about research or a nice book!
+Xuewen is a Take Five senior student majoring in EEB and Philosophy. She joined the lab in Feb 2022 and is broadly interested in how environmental factors shaped species behaviors, both in individuals and in populations. Xuewen is currently working on a project investigating hybrid gulls’ distribution and ecological niches. Outside of her interest in ecology, she also enjoys crocheting, gardening and reading. Xuewen is currently pursuing her interest in literature through her proposed Take Five Program: Dramatic Figures in Literature and Films, focusing on Horror and Fantasy Genres. 
 
 Pronouns: she/her/hers
 
-<br><br><br>
+<br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/CindyHe.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Xin Yi He - *Undergraduate Researcher*
