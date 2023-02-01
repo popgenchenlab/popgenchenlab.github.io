@@ -31,7 +31,7 @@ Pronouns: she/her/hers
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/DanielSeidman.jpg){: style="width: 350px; float: left; border: 60px"}
 ### Daniel Seidman - *Postdoctoral Scholar*
 
-Daniel Seidman joined the Chen lab in late 2022. He mainly studied computational biology for his PhD, with an emphasis on making new tools to improve or facilitate genomic analyses. He has a long-term goal of facilitating analyses of non-model organisms. In the Chen lab, he is looking into the Florida Scrub Jay, using the lab’s available datasets to investigate organismal fitness on a genomic level. He has occasionally made educational stop-motion or Claymation shorts, and is looking into making one for this lab as well.
+Daniel joined the Chen lab in late 2022. He mainly studied computational biology for his PhD, with an emphasis on making new tools to improve or facilitate genomic analyses. He has a long-term goal of facilitating analyses of non-model organisms. In the Chen lab, he is looking into the Florida Scrub Jay, using the lab’s available datasets to investigate organismal fitness on a genomic level. He has occasionally made educational stop-motion or Claymation shorts, and is looking into making one for this lab as well.
 
 Pronouns: he/him/his
 
@@ -73,6 +73,24 @@ Pronouns: he/him/his
 
 <br><br><br><br><br><br><br>
 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/AbbyEckert.png){: style="width: 350px; float: left; border: 10px"}
+### Abby Eckert - *Undergraduate Researcher*
+
+Abby is a current sophomore majoring in Ecology and Evolution and Environmental Studies. This is her first semester in the lab and she is excited to learn more about population genetics, data analysis, and coding in R. She is especially interested in conservation. Abby is looking forward to implementing what she has learned in her classes. Outside of the lab, she enjoys crocheting, taking care of her houseplants, sailing, and doing artsy things. 
+
+Pronouns: she/her/hers
+
+<br><br><br><br><br><br><br><br><br>
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/AlexGaston.jpg){: style="width: 350px; float: left; border: 10px"}
+### Alex Gaston - *Undergraduate Researcher*
+
+Alex is currently a junior majoring in Molecular Genetics. She joined the lab in Fall 2022 and is currently working on a project looking at the dispersal and genetic variation of Weddell seals!  Outside of the Chen Lab, Alex enjoys drawing, listening to music, playing the piano, and reading! 
+
+Pronouns: she/her/hers
+
+<br><br><br><br><br><br><br><br><br>
+
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Xuewen.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Xuewen Geng - *Undergraduate Researcher*
 
@@ -82,6 +100,15 @@ Pronouns: she/her/hers
 
 <br><br><br>
 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/CindyHe.jpg){: style="width: 350px; float: left; border: 10px"}
+### Xin Yi He - *Undergraduate Researcher*
+
+Xin Yi (Cindy) is a current undergraduate sophomore majoring in Biochemistry. She joined Chen Lab in the Fall of 2022. Cindy is interested in population genetics and evolution and wants to explore more in the fields of environmental consequences that contribute to the changes in species populations. Outside of the lab, she enjoys cooking and playing badminton in her free time.
+
+Pronouns: she/her/hers
+
+<br><br><br><br><br><br><br>
+
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Kristin.png){: style="width: 350px; float: left; border: 10px"}
 ### Kristin Hardy - *Undergraduate Researcher*
 
@@ -89,7 +116,34 @@ Kristin is an undergraduate majoring in molecular genetics. She is interested in
 
 Pronouns: she/her/hers
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/VanitaShih.jpg){: style="width: 350px; float: left; border: 10px"}
+### Vanita Shih - *Undergraduate Researcher*
+
+Vanita is a first-year student with a major in biology, potentially pursuing the neuroscience track. She is curious about the reasons behind population decline in endangered species and would like to explore conservation methods. Outside of research, Vanita loves creative writing, reading, dancing, and fashion. 
+
+Pronouns: she/her/hers
+
+<br><br><br><br><br><br><br><br><br>
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/AllisonTilburg.jpg){: style="width: 350px; float: left; border: 10px"}
+### Allison Tilburg - *Undergraduate Researcher*
+
+Allison is a sophomore studying Ecology and Evolutionary Biology with a minor in sustainability. She is interested in conservation and hopes to specifically work with sea turtle populations. She also hopes to pursue a PhD in Marine Biology and Ecology. Allison just joined the lab this semester and looks forward to learning more about population genetics and programming with R. 
+
+Pronouns: she/her/hers
+
+<br><br><br><br><br><br><br><br>
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/BlueWarner.jpg){: style="width: 350px; float: left; border: 10px"}
+### Blue Hovmand Warner - *Undergraduate Researcher*
+
+Blue is majoring in computational biology and joined the lab in January of 2023. They have an interest in understanding evolutionary processes and population dynamics. Blue enjoys doing simulation modeling and computational analysis of genomic data. In the Chen lab, Blue is currently working with genome assembly and annotation. Outside of studying, they love reading a good sci-fi book.
+
+Pronouns: they/them/theirs
+
+<br><br><br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/DashiEspurr.jpg){: style="width: 350px; float: left; border: 60px"}
 ### Dashi and Espurr - *Lab pets*
