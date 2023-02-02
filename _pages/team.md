@@ -109,10 +109,19 @@ Pronouns: she/her/hers
 
 <br><br><br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Kristin.png){: style="width: 350px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/KristinHardy.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Kristin Hardy - *Undergraduate Researcher*
 
-Kristin is an undergraduate majoring in molecular genetics. She is interested in genetic mutations and population genetics and is pursuing a career in genetic counseling. Outside of the Chen Lab, she works in the URMC emergency department and enrolls patients in emergency medicine research studies and she is also a member of the women’s track and field team. 
+Kristin is a senior undergraduate majoring in molecular genetics and joined the Chen lab in October 2020. She is hoping to pursue a PhD in population genetics. She is currently working on a project elucidating the demographic, environmental, and genetic forces driving blood parasite infections in the Florida Scrub-Jay. Outside of the Chen Lab, she is a member of the women’s track and field team. 
+
+Pronouns: she/her/hers
+
+<br><br><br><br><br><br><br><br>
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/JennaSavino.png){: style="width: 350px; float: left; border: 10px"}
+### Jenna Savino - *Undergraduate Researcher*
+
+Jenna is an undergraduate majoring in Molecular Genetics and minoring in American Sign Language. She is very interested in how genetic variation affects populations and quantifying biological data utilizing various computer programming languages. Outside of the classroom, she enjoys listening to music and playing Minecraft. 
 
 Pronouns: she/her/hers
 
@@ -150,7 +159,7 @@ Pronouns: they/them/theirs
 
 Dashi and Espurr are second-year cats with broad interests including displays of affection, sleeping, and occasionally learning tricks. Dashi is our resident entomologist and wants to investigate the culinary uses of insects, if his lab-mate Jeremy would let him catch any. Espurr is specializing in botany and has discovered that frequent face rubbing with plants triggers a strong purr response in herself.
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Minka.jpeg){: style="width: 350px; float: left; border: 60px"}
 ### Minka - *Lab pet*
