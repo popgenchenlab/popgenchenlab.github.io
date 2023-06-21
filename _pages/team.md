@@ -58,7 +58,7 @@ Pronouns: she/her/hers
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/FayeRomero.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Faye Romero - *Graduate Student*
 
-As a PhD student in the Chen lab, Faye is interested in using genomics, computational biology, and population genetics to better understand how inbreeding impacts the fitness of small, threatened populations. Specifically, she is investigating the underlying genetic architecture of inbreeding depression: how does elevated inbreeding manifest in the genome, and what regions of the genome contribute to fitness, and ultimately, population decline? During her undergraduate, she used museum specimens to determine how hummingbirds have responded to human-induced environmental change. Faye also loves to swing dance, birdwatch, and play video games!
+As a PhD student in the Chen lab, Faye is interested in using genomics, computational biology, and population genetics to better understand how inbreeding impacts the fitness of small, threatened populations. Specifically, she is investigating the underlying genetic architecture of inbreeding depression: how does elevated inbreeding manifest in the genome, and what regions of the genome contribute to fitness, and ultimately, population decline? During her undergraduate, she used museum specimens to determine how hummingbirds have responded to human-induced environmental change. Faye also loves to swing dance, birdwatch, and play video games! For more, see [Faye’s website](https://faye-romero.github.io/).
 
 Pronouns: she/her/hers
 
@@ -248,4 +248,4 @@ Ph.D. rotation students: Maria Isabel Castano, Rose Driscoll, Matthew Lindsay
 
 [Jay Rotella](https://www.montana.edu/rotella/), Montana State University
 
-
+[Scott Edwards](https://edwards.oeb.harvard.edu/people/scott-v-edwards), Harvard University

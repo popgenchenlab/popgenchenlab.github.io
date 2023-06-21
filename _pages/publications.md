@@ -15,7 +15,13 @@ permalink: /publications/
 <br>
 
 ### **Peer-reviewed**
-Johnston SE, **Chen N**, Josephs EB. Taking quantitative genomics into the wild. [*Proc R Soc B* 289: 20221930.](https://royalsocietypublishing.org/doi/10.1098/rspb.2022.1930)<br>
+Townsend A, Jones M, **Chen N**, Chivily C, McAndrews C, Clark A, McGowan K, Eimes J. 2023. Increased genetic diversity and immigration after West Nile virus emergence in American crows: No evidence for a genetic bottleneck. [*Molecular Ecology* 00: 1–10.](https://doi.org/10.1111/mec.17037)<br>
+<br>
+
+**Summers J**, Lukas D, Logan C, **Chen N**. 2023. The role of climate change and niche shifts in divergent range dynamics of a sister-species pair. [*Peer Community Journal* 3: e23. doi: 10.24072/pcjournal.248.](https://peercommunityjournal.org/articles/10.24072/pcjournal.248/)<br>
+<br>
+
+Johnston SE, **Chen N**, Josephs EB. 2022. Taking quantitative genomics into the wild. [*Proc R Soc B* 289: 20221930.](https://royalsocietypublishing.org/doi/10.1098/rspb.2022.1930)<br>
 <br>
 
 Nguyen T, **Chen N**, Cosgrove EJ, Bowman R, Fitzpatrick JW, Clark A. 2022. Dynamics of reduced genetic diversity in increasingly fragmented populations of Florida Scrub-Jays, *Aphelocoma coerulescens*. [*Evolutionary Applications* 15: 1018-1027.](https://onlinelibrary.wiley.com/doi/10.1111/eva.13421)<br>
