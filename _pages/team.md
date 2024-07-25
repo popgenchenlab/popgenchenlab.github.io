@@ -12,7 +12,7 @@ permalink: /people/
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/NCjay2.jpeg){: style="width: 350px; float: left; border: 10px"}
 ### Nancy Chen - *Principal Investigator*
 
-Nancy is an evolutionary biologist interested in the genomic basis of contemporary evolution in natural populations. Her research integrates genomics and long-term demographic studies to characterize the evolutionary processes shaping patterns of variation across the genome through space and time. Nancy earned her Ph.D. with Andy Clark and John Fitzpatrick at Cornell University and then did a postdoc with Graham Coop at UC Davis before moving to Rochester. She is committed to promoting equity and inclusion in STEM. Nancy enjoys running, hiking, cooking, and playing board games. [CV](https://www.dropbox.com/s/zzf3civc9w92tvp/NancyCVApril2019.pdf?dl=0) 
+Nancy is an evolutionary biologist interested in the genomic basis of contemporary evolution in natural populations. Her research integrates genomics and long-term demographic studies to characterize the evolutionary processes shaping patterns of variation across the genome through space and time. Nancy earned her Ph.D. with Andy Clark and John Fitzpatrick at Cornell University and then did a postdoc with Graham Coop at UC Davis before moving to Rochester. She is committed to promoting equity and inclusion in STEM. Nancy enjoys running, hiking, cooking, and playing board games. [CV](https://www.dropbox.com/scl/fi/yw6jafo0c2m6dh66blm7b/NancyCVJul2024separated.pdf?rlkey=ii5nhy35rdetlu0inpk86vdo1&dl=0) 
 
 Email: nancy.chen@rochester.edu <br>
 Twitter: [@popgenchen](https://twitter.com/popgenchen) <br>
@@ -46,14 +46,14 @@ Pronouns: she/her/hers
 
 <br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Elsie.jpg){: style="width: 350px; float: left; border: 60px"}
-### Elsie Shogren - *Postdoctoral Scholar (co-advised by Al Uy)*
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/BrianKirz.jpg){: style="width: 350px; float: left; border: 60px"}
+### Brian Kirz - *Graduate Student*
 
-Elsie wants to understand how behavior, ecology, and the environment interact to shape the evolutionary trajectories of birds. She is studying a system of sympatric Myzomela honeyeaters to learn how hybridization and recently evolved sex chromosomes influence genetic introgression and speciation. Elsie completed her Ph.D. at Kansas State University with Dr. Alice Boyle, studying how the abiotic environment influences the scope of sexual selection in Neotropical Manakins (Pipridae). For more, see [Elsie’s website](https://ehshogren.wordpress.com/).
+Brian joined the Chen Lab in 2024 as a graduate student. As an undergraduate, he studied computational biology and developed methods to detect archaic introgression from other hominins. Brian is interested in investigating how life history strategies impact the genetics and genomics of small populations. Outside of the lab, he enjoys cooking, biking at night, and overly complicated map games.
 
-Pronouns: she/her/hers
+Pronouns: he/him/his
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/FayeRomero.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Faye Romero - *Graduate Student*
@@ -62,7 +62,7 @@ As a PhD student in the Chen lab, Faye is interested in using genomics, computat
 
 Pronouns: she/her/hers
 
-<br><br><br><br><br>
+<br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/JeremySummers.jpg){: style="width: 350px; float: left; border: 60px"}
 ### Jeremy Summers - *Graduate Student*
@@ -82,42 +82,6 @@ Pronouns: she/her/hers
 
 <br><br><br><br><br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/AlexGaston.jpg){: style="width: 350px; float: left; border: 10px"}
-### Alex Gaston - *Undergraduate Researcher*
-
-Alex is currently a junior majoring in Molecular Genetics. She joined the lab in Fall 2022 and is currently working on a project looking at the dispersal and genetic variation of Weddell seals!  Outside of the Chen Lab, Alex enjoys drawing, listening to music, playing the piano, and reading! 
-
-Pronouns: she/her/hers
-
-<br><br><br><br><br><br><br><br><br>
-
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Xuewen.jpg){: style="width: 350px; float: left; border: 10px"}
-### Xuewen Geng - *Undergraduate Researcher*
-
-Xuewen is a Take Five senior student majoring in EEB and Philosophy. She joined the lab in Feb 2022 and is broadly interested in how environmental factors shaped species behaviors, both in individuals and in populations. Xuewen is currently working on a project investigating hybrid gulls’ distribution and ecological niches. Outside of her interest in ecology, she also enjoys crocheting, gardening and reading. Xuewen is currently pursuing her interest in literature through her proposed Take Five Program: Dramatic Figures in Literature and Films, focusing on Horror and Fantasy Genres. 
-
-Pronouns: she/her/hers
-
-<br><br><br><br><br><br>
-
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/CindyHe.jpg){: style="width: 350px; float: left; border: 10px"}
-### Xin Yi He - *Undergraduate Researcher*
-
-Xin Yi (Cindy) is a current undergraduate sophomore majoring in Biochemistry. She joined Chen Lab in the Fall of 2022. Cindy is interested in population genetics and evolution and wants to explore more in the fields of environmental consequences that contribute to the changes in species populations. Outside of the lab, she enjoys cooking and playing badminton in her free time.
-
-Pronouns: she/her/hers
-
-<br><br><br><br><br><br><br>
-
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/KristinHardy.jpg){: style="width: 350px; float: left; border: 10px"}
-### Kristin Hardy - *Undergraduate Researcher*
-
-Kristin is a senior undergraduate majoring in molecular genetics and joined the Chen lab in October 2020. She is hoping to pursue a PhD in population genetics. She is currently working on a project elucidating the demographic, environmental, and genetic forces driving blood parasite infections in the Florida Scrub-Jay. Outside of the Chen Lab, she is a member of the women’s track and field team. 
-
-Pronouns: she/her/hers
-
-<br><br><br><br><br><br><br><br>
-
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/JennaSavino.png){: style="width: 350px; float: left; border: 10px"}
 ### Jenna Savino - *Undergraduate Researcher*
 
@@ -126,33 +90,6 @@ Jenna is an undergraduate majoring in Molecular Genetics and minoring in America
 Pronouns: she/her/hers
 
 <br><br><br><br><br><br><br><br><br><br><br>
-
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/VanitaShih.jpg){: style="width: 350px; float: left; border: 10px"}
-### Vanita Shih - *Undergraduate Researcher*
-
-Vanita is a first-year student with a major in biology, potentially pursuing the neuroscience track. She is curious about the reasons behind population decline in endangered species and would like to explore conservation methods. Outside of research, Vanita loves creative writing, reading, dancing, and fashion. 
-
-Pronouns: she/her/hers
-
-<br><br><br><br><br><br><br><br><br>
-
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/AllisonTilburg.jpg){: style="width: 350px; float: left; border: 10px"}
-### Allison Tilburg - *Undergraduate Researcher*
-
-Allison is a sophomore studying Ecology and Evolutionary Biology with a minor in sustainability. She is interested in conservation and hopes to specifically work with sea turtle populations. She also hopes to pursue a PhD in Marine Biology and Ecology. Allison just joined the lab this semester and looks forward to learning more about population genetics and programming with R. 
-
-Pronouns: she/her/hers
-
-<br><br><br><br><br><br><br><br>
-
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/BlueWarner.jpg){: style="width: 350px; float: left; border: 10px"}
-### Blue Hovmand Warner - *Undergraduate Researcher*
-
-Blue is majoring in computational biology and joined the lab in January of 2023. They have an interest in understanding evolutionary processes and population dynamics. Blue enjoys doing simulation modeling and computational analysis of genomic data. In the Chen lab, Blue is currently working with genome assembly and annotation. Outside of studying, they love reading a good sci-fi book.
-
-Pronouns: they/them/theirs
-
-<br><br><br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/DashiEspurr.jpg){: style="width: 350px; float: left; border: 60px"}
 ### Dashi and Espurr - *Lab pets*
@@ -189,9 +126,15 @@ Jonathan Chow (undergraduate) - became a MS student at Georgia Tech
 
 Tiffany Dias (undergraduate) - became a PhD student at the University of Michigan
 
+Xuewen Geng (undergraduate) - became a PhD student a UWaterloo
+
 Syed Ars Ghani (undergraduate) - became a Take 5 Scholar
 
+Kristin Hardy (undergraduate) - became a PhD student at UC Davis
+
 Martha Hoffman (post-bac research intern) - became a vet student at Cornell
+
+Blue Hovmand Warner (undergraduate)
 
 Bailey Jones (visiting undergraduate) - became a lab tech at Yale 
 
@@ -205,7 +148,7 @@ Siddarth Seenivasa (undergraduate)
 
 Gladiana Spitz (undergraduate) - became a PhD student at CU Boulder
 
-Ceylin Zeybek (visiting undergraduate) - became a PhD student at SUNY Buffalo
+Ceylin Zeybek (visiting undergraduate) - became a PhD student at Kyoto University
 
 Bo Zhou (undergraduate) - became a MEng student at UC Berkeley
 
@@ -217,7 +160,10 @@ Ph.D. rotation students: Maria Isabel Castano, Rose Driscoll, Matthew Lindsay
   <img src="/images/teampic/Tamanna.jpeg" width="250" />
   <img src="/images/teampic/Michaela.png" width="250" />
   <img src="/images/teampic/Tiffany.jpg" width="250" /> 
+  <img src="/images/teampic/Xuewen.jpg" width="250" /> 
+  <img src="/images/teampic/KristinHardy.jpg" width="250" /> 
   <img src="/images/teampic/Martha.jpeg" width="250" />
+  <img src="/images/teampic/BlueWarner.jpg" width="250" /> 
   <img src="/images/teampic/Bailey.jpeg" width="250" />
   <img src="/images/teampic/Matt.JPG" width="250" />
   <img src="/images/teampic/Lindsey.jpg" width="250" />

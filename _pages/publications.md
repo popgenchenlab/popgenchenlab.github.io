@@ -15,6 +15,20 @@ permalink: /publications/
 <br>
 
 ### **Peer-reviewed**
+**Summers J**, Cosgrove EJ, Bowman R, Fitzpatrick JW, **Chen N**. *In press*. Density dependence maintains long-term stability despite increased isolation and inbreeding in the Florida Scrub-Jay. *Ecology Letters*. [bioRxiv doi.](https://doi.org/10.1101/2024.01.10.575127)<br>
+<br>
+
+**Samanta N**, **Schiller E**, **López-Molini I**, **Martin M**, Flores I, Meyer AS, **Chen N**. *In press*. An endometriosis symptom-based predictive model as an accessible, noninvasive diagnostic tool. *Journal of Endometriosis and Pelvic Pain Disorders*.<br>
+<br>
+
+**Geng X**, **Summers J**, **Chen N**. 2024. Ecological niche contributes to the persistence of the Western x Glaucous-winged Gull hybrid zone. [*Ecology and Evolution* 14: e11678.](https://doi.org/10.1002/ece3.11678)<br>
+
+<img src = "{{ site.url}}{{ site.baseurl}}/images/pubpic/GeneticsJuly2024cover.png" class="img-responsive" width = "25%" style="float: right; padding-left: 15px" />
+<br>
+
+**Driscoll RMH**, **Beaudry FEG**, Cosgrove EJ, Bowman R, Fitzpatrick JW, Schoech SJ, **Chen N**. 2024. Allele frequency dynamics under sex-biased demography and sex-specific inheritance in a pedigreed population. [*Genetics* 227: iyae075.](https://doi.org/10.1093/genetics/iyae075)<br>
+<br>
+
 Townsend A, Jones M, **Chen N**, Chivily C, McAndrews C, Clark A, McGowan K, Eimes J. 2023. Increased genetic diversity and immigration after West Nile virus emergence in American crows: No evidence for a genetic bottleneck. [*Molecular Ecology* 00: 1–10.](https://doi.org/10.1111/mec.17037)<br>
 <br>
 
