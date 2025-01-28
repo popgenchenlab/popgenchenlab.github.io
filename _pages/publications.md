@@ -11,19 +11,25 @@ permalink: /publications/
 
 
 ### Check out our publications on [Google Scholar](https://scholar.google.com/citations?user=VOpNPTgAAAAJ&hl=en)
-<img src = "{{ site.url}}{{ site.baseurl}}/images/pubpic/PLOSgeneticsAug2017cover.png" class="img-responsive" width = "25%" style="float: right; padding-left: 15px" />
+<img src = "{{ site.url}}{{ site.baseurl}}/images/pubpic/EcologyLettersJan2025Cover.png" class="img-responsive" width = "25%" style="float: right; padding-left: 15px" />
 <br>
 
 ### **Peer-reviewed**
-**Summers J**, Cosgrove EJ, Bowman R, Fitzpatrick JW, **Chen N**. *In press*. Density dependence maintains long-term stability despite increased isolation and inbreeding in the Florida Scrub-Jay. *Ecology Letters*. [bioRxiv doi.](https://doi.org/10.1101/2024.01.10.575127)<br>
+Linderoth T, Deaner L, **Chen N**, Bowman R, Boughton R, Fitzpatrick SW. *In press*. Translocations spur population growth but fail to prevent genetic erosion in imperiled Florida Scrub-Jays. *Current Biology*. [bioRxiv](https://doi.org/10.1101/2023.11.11.566550)<br>
 <br>
 
-**Samanta N**, **Schiller E**, **López-Molini I**, **Martin M**, Flores I, Meyer AS, **Chen N**. *In press*. An endometriosis symptom-based predictive model as an accessible, noninvasive diagnostic tool. *Journal of Endometriosis and Pelvic Pain Disorders*.<br>
+**Summers J**, Cosgrove EJ, Bowman R, Fitzpatrick JW, **Chen N**. 2024. Density dependence maintains long-term stability despite increased isolation and inbreeding in the Florida Scrub-Jay. [*Ecology Letters* 27: e14483.](https://doi.org/10.1111/ele.14483)<br>
+<br>
+
+**Romero FR**, **Beaudry FEG**, **Hovman Warner E**, Nguyen TN, Fitzpatrick JW, **Chen N**. 2024. A new high-quality genome assembly and annotation for the threatened Florida Scrub-Jay (*Aphelocoma coerulescens*). [*G3*: jkae232.](https://doi.org/10.1093/g3journal/jkae232)<br>
+<br>
+
+<img src = "{{ site.url}}{{ site.baseurl}}/images/pubpic/GeneticsJuly2024cover.png" class="img-responsive" width = "25%" style="float: right; padding-left: 15px" />
+
+**Samanta N**, **Schiller E**, **López-Molini I**, **Martin M**, Flores I, Meyer AS, **Chen N**. 2024. An endometriosis symptom-based predictive model as an accessible, noninvasive diagnostic tool. [*Journal of Endometriosis and Pelvic Pain Disorders* 16(2): 71-78.](https://journals.sagepub.com/doi/10.1177/22840265241257295)<br>
 <br>
 
 **Geng X**, **Summers J**, **Chen N**. 2024. Ecological niche contributes to the persistence of the Western x Glaucous-winged Gull hybrid zone. [*Ecology and Evolution* 14: e11678.](https://doi.org/10.1002/ece3.11678)<br>
-
-<img src = "{{ site.url}}{{ site.baseurl}}/images/pubpic/GeneticsJuly2024cover.png" class="img-responsive" width = "25%" style="float: right; padding-left: 15px" />
 <br>
 
 **Driscoll RMH**, **Beaudry FEG**, Cosgrove EJ, Bowman R, Fitzpatrick JW, Schoech SJ, **Chen N**. 2024. Allele frequency dynamics under sex-biased demography and sex-specific inheritance in a pedigreed population. [*Genetics* 227: iyae075.](https://doi.org/10.1093/genetics/iyae075)<br>
@@ -31,6 +37,8 @@ permalink: /publications/
 
 Townsend A, Jones M, **Chen N**, Chivily C, McAndrews C, Clark A, McGowan K, Eimes J. 2023. Increased genetic diversity and immigration after West Nile virus emergence in American crows: No evidence for a genetic bottleneck. [*Molecular Ecology* 00: 1–10.](https://doi.org/10.1111/mec.17037)<br>
 <br>
+
+<img src = "{{ site.url}}{{ site.baseurl}}/images/pubpic/PLOSgeneticsAug2017cover.png" class="img-responsive" width = "25%" style="float: right; padding-left: 15px" />
 
 **Summers J**, Lukas D, Logan C, **Chen N**. 2023. The role of climate change and niche shifts in divergent range dynamics of a sister-species pair. [*Peer Community Journal* 3: e23. doi: 10.24072/pcjournal.248.](https://peercommunityjournal.org/articles/10.24072/pcjournal.248/)<br>
 <br>
@@ -92,7 +100,17 @@ Canfield MR, Greene E, Moreau CS, **Chen N**, Pierce NE. 2008. Exploring phenoty
 **Chen N**, Gascoin F, Muller E, Karpinski G, Stiewe C, Snyder GJ. 2005. Macroscopic thermoelectric inhomogeneities of (AgSbTe2)<sub>x</sub>(PbTe)<sub>1-x</sub>. [*Applied Physics Letters* 87: 171903.](http://scitation.aip.org/content/aip/journal/apl/87/17/10.1063/1.2056590) <br>
 <br>
 
+### **Preprints**
+Nguyen TN, Cosgrove EJ, **Chen N**, Lehr N, Lokey MG, Beaudry FE, Fitzpatrick SW, Bowman R, Miller K, Fitzpatrick JW, Clark AG. Whole-genome sequencing across space and time reveals impact of population decline and reduced gene flow in Florida Scrub-Jays. [*bioRxiv* doi: https://doi.org/10.1101/2024.11.05.622154](https://doi.org/10.1101/2024.11.05.622154).<br>
+<br>
+
+**Shah S**, **Diamond J**, Barve S, Cosgrove EJ, Bowman R, Fitzpatrick JW, **Chen N**. Lifetime fitness benefits of breeding site fidelity and low costs of inbreeding permit inbreeding tolerance in an avian cooperative breeder. [*bioRxiv* doi: https://doi.org/10.1101/2024.09.21.614049](https://doi.org/10.1101/2024.09.21.614049).<br>
+<br>
+
 ### **Other**
+Tringali A, **Chen N**. 2024. In Memoriam: Reed Bowman, 1958–2023. [*Journal of Field Ornithology* 95(1): art14.](https://doi.org/10.5751/JFO-00440-950114)<br>
+<br>
+
 **Chen N**. 2020. A gene for color differences between sexes. [*Science* 368(6496): 1185-1186.](https://science.sciencemag.org/content/368/6496/1185.abstract) <br>
 <br>
 

@@ -19,23 +19,6 @@ Twitter: [@popgenchen](https://twitter.com/popgenchen) <br>
 Pronouns: she/her/hers
 <br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/ElizabethFlesch.jpg){: style="width: 350px; float: left; border: 60px"}
-### Elizabeth Flesch - *Postdoctoral Scholar (co-advised by Jay Rotella)*
-
-Elizabeth is interested in understanding how external forces influence population genetics across landscapes.  She is using demographic and genomic methods to evaluate the spatial scale of dispersal and gene flow among breeding colonies of Weddell seals found in Antarctica.  This approach will help identify potential drivers of temporal variation in immigration.  Elizabeth earned her Ph.D. at Montana State University, where her dissertation addressed the population genomics of bighorn sheep in the Rocky Mountains.  In her free time, she enjoys rock climbing, gardening, and hiking.
-
-Pronouns: she/her/hers
-
-<br>
-
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/DanielSeidman.jpg){: style="width: 350px; float: left; border: 60px"}
-### Daniel Seidman - *Postdoctoral Scholar*
-
-Daniel joined the Chen lab in late 2022. He mainly studied computational biology for his PhD, with an emphasis on making new tools to improve or facilitate genomic analyses. He has a long-term goal of facilitating analyses of non-model organisms. In the Chen lab, he is looking into the Florida Scrub Jay, using the lab’s available datasets to investigate organismal fitness on a genomic level. He has occasionally made educational stop-motion or Claymation shorts, and is looking into making one for this lab as well.
-
-Pronouns: he/him/his
-
-<br><br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Shailee.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Shailee Shah - *Postdoctoral Scholar*
@@ -46,14 +29,14 @@ Pronouns: she/her/hers
 
 <br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/BrianKirz.jpg){: style="width: 350px; float: left; border: 60px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/BrianKirz.png){: style="width: 350px; float: left; border: 60px"}
 ### Brian Kirz - *Graduate Student*
 
-Brian joined the Chen Lab in 2024 as a graduate student. As an undergraduate, he studied computational biology and developed methods to detect archaic introgression from other hominins. Brian is interested in investigating how life history strategies impact the genetics and genomics of small populations. Outside of the lab, he enjoys cooking, biking at night, and overly complicated map games.
+Brian joined the Chen Lab in 2024 as a graduate student. He is interested in the relative importance of selection, drift, and gene flow, as well as how they shape variation in natural populations. His work with the North American red squirrel investigates the effect of fluctuating environments on variation in fitness, long-term genetic contributions, and genome-wide selection. Outside of the lab, Brian enjoys poetry, biking at night, and overly complicated map games.
 
 Pronouns: he/him/his
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/FayeRomero.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Faye Romero - *Graduate Student*
@@ -126,6 +109,8 @@ Jonathan Chow (undergraduate) - became a MS student at Georgia Tech
 
 Tiffany Dias (undergraduate) - became a PhD student at the University of Michigan
 
+Elizabeth Flesch (postdoc) - became a biologist at USFWS
+
 Xuewen Geng (undergraduate) - became a PhD student a UWaterloo
 
 Syed Ars Ghani (undergraduate) - became a Take 5 Scholar
@@ -146,6 +131,8 @@ Nandini Samanta (undergraduate) - became a lab tech at Harvard
  
 Siddarth Seenivasa (undergraduate)
 
+Daniel Seidman (postdoc)
+
 Gladiana Spitz (undergraduate) - became a PhD student at CU Boulder
 
 Ceylin Zeybek (visiting undergraduate) - became a PhD student at Kyoto University
@@ -160,6 +147,7 @@ Ph.D. rotation students: Maria Isabel Castano, Rose Driscoll, Matthew Lindsay
   <img src="/images/teampic/Tamanna.jpeg" width="250" />
   <img src="/images/teampic/Michaela.png" width="250" />
   <img src="/images/teampic/Tiffany.jpg" width="250" /> 
+  <img src="/images/teampic/ElizabethFlesch.jpg" width="250" />
   <img src="/images/teampic/Xuewen.jpg" width="250" /> 
   <img src="/images/teampic/KristinHardy.jpg" width="250" /> 
   <img src="/images/teampic/Martha.jpeg" width="250" />
@@ -169,28 +157,27 @@ Ph.D. rotation students: Maria Isabel Castano, Rose Driscoll, Matthew Lindsay
   <img src="/images/teampic/Lindsey.jpg" width="250" />
   <img src="/images/teampic/Nandini.jpeg" width="250" />
   <img src="/images/teampic/Sid.JPG" width="250" />
+  <img src="/images/teampic/DanielSeidman.jpg" width="250" />
   <img src="/images/teampic/Gladiana.jpg" width="250" />
   <img src="/images/teampic/ceylin.JPG" width="250" />
 </p>
 
 ### Collaborators
-[Reed Bowman](http://www.archbold-station.org/html/aboutus/staffpages/rbowman/rbowman.html), Archbold Biological Station
+[Sahas Barve](http://www.sahasbarve.com/), Archbold Biological Station
 
 [Andy Clark](https://blogs.cornell.edu/clarklabblog/), Cornell University
 
-[Graham Coop](https://gcbias.org/), UC Davis
+[Ben Dantzer](https://sites.lsa.umich.edu/dantzerlab/), U Michigan
 
 [John Fitzpatrick](http://ecologyandevolution.cornell.edu/john-weaver-fitzpatrick), Cornell Lab of Ornithology
+
+[Kelley Harris](https://sites.google.com/site/harriskelley/home), University of Washington 
 
 [Steve Schoech](https://umdrive.memphis.edu/sschoech/www/), University of Memphis
 
 [Susan Johnston](https://sejohnston.com/), University of Edinburgh
 
-[Josephine Pemberton](http://pemberton.bio.ed.ac.uk/home), University of Edinburgh
-
 [Andrew McAdam](http://www.mcadamlab.ca/), CU Boulder
-
-[Andrea Townsend](https://hamiltoncs.org/townsend/), Hamilton College
 
 [Jay Rotella](https://www.montana.edu/rotella/), Montana State University
 
