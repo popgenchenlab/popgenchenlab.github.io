@@ -15,7 +15,7 @@ permalink: /publications/
 <br>
 
 ### **Peer-reviewed**
-Linderoth T, Deaner L, **Chen N**, Bowman R, Boughton R, Fitzpatrick SW. *In press*. Translocations spur population growth but fail to prevent genetic erosion in imperiled Florida Scrub-Jays. *Current Biology*. [bioRxiv](https://doi.org/10.1101/2023.11.11.566550)<br>
+Linderoth T, Deaner L, **Chen N**, Bowman R, Boughton R, Fitzpatrick SW. 2025. Translocations spur population growth but fail to prevent genetic erosion in imperiled Florida Scrub-Jays. [*Current Biology* 35(6): 1391-1399.e6.](https://doi.org/10.1016/j.cub.2025.01.058)<br>
 <br>
 
 **Summers J**, Cosgrove EJ, Bowman R, Fitzpatrick JW, **Chen N**. 2024. Density dependence maintains long-term stability despite increased isolation and inbreeding in the Florida Scrub-Jay. [*Ecology Letters* 27: e14483.](https://doi.org/10.1111/ele.14483)<br>
@@ -101,6 +101,9 @@ Canfield MR, Greene E, Moreau CS, **Chen N**, Pierce NE. 2008. Exploring phenoty
 <br>
 
 ### **Preprints**
+Edwards SV, Fang B, Khost D, Kolyfetis GE, Cheek RG DeRaad D, **Chen N**, Fitzpatrick JW, McCormack JE, Funk WC, Ghalambor CK, Garrison E, Guarracino A, Li H, Sackton TB. Comparative population pangenomes reveal unexpected complexity and fitness effects of structural variants. [*bioRxiv* doi: https://doi.org/10.1101/2025.02.11.637762](https://doi.org/10.1101/2025.02.11.637762).<br>
+<br>
+
 Nguyen TN, Cosgrove EJ, **Chen N**, Lehr N, Lokey MG, Beaudry FE, Fitzpatrick SW, Bowman R, Miller K, Fitzpatrick JW, Clark AG. Whole-genome sequencing across space and time reveals impact of population decline and reduced gene flow in Florida Scrub-Jays. [*bioRxiv* doi: https://doi.org/10.1101/2024.11.05.622154](https://doi.org/10.1101/2024.11.05.622154).<br>
 <br>
 
@@ -108,6 +111,9 @@ Nguyen TN, Cosgrove EJ, **Chen N**, Lehr N, Lokey MG, Beaudry FE, Fitzpatrick SW
 <br>
 
 ### **Other**
+V. Bala Chaudhary, ...**Chen N**..., Khadempour L (30 authors total). 2025. Protect US racial affinity groups. [*Science* 387: 937-937.](https://www.science.org/doi/10.1126/science.adq4733)<br>
+<br>
+
 Tringali A, **Chen N**. 2024. In Memoriam: Reed Bowman, 1958–2023. [*Journal of Field Ornithology* 95(1): art14.](https://doi.org/10.5751/JFO-00440-950114)<br>
 <br>
 
