@@ -59,25 +59,8 @@ National Academies of Science, Engineering, Medicine
 
 
 
-### Some resources at the University of Rochester
-[Diversity & Inclusion in Biological Sciences](http://www.sas.rochester.edu/bio/sites/wibs/)<br>
-[Diversity and Inclusion on campus](https://www.rochester.edu/diversity/)<br>
-[The CARE Network](https://www.rochester.edu/care/)<br>
-[Disability Services and Support](https://www.rochester.edu/disability/)<br>
-[Equal Opportunity Compliance Office](https://www.rochester.edu/eoc/)<br>
-[First-generation Students and Families](https://www.rochester.edu/parents/firstgen/index.html)<br>
-[Gender Health Services](https://www.urmc.rochester.edu/childrens-hospital/adolescent/gender-health-services.aspx)<br>
-[LGBTQ at Rochester](https://www.rochester.edu/lgbtq/index.html)<br>
-[Office of Global Engagement](http://www.rochester.edu/global/)<br>
-[Office of Minority Student Affairs](https://www.rochester.edu/college/OMSA/index.html)<br>
-[Safe Space program](https://www.rochester.edu/diversity/staff/safe-space/)<br>
-[University Intercessor](https://www.rochester.edu/intercessor/)<br>
-[We're better than THAT anti-racism campaign](https://www.rochester.edu/better-than-that/)<br>
-[M.K. Gandhi Institute for Nonviolence](https://gandhiinstitute.org/)<br>
-<br>
 
-(Thank you [Emily Josephs](https://josephslab.github.io/resources/), [Marjorie Weber](http://www.theweberlab.com/diversity-in-stem.html), and [Scott Taylor](https://www.colorado.edu/lab/taylor/diversity-stem) for inspiration)
-<br>
+
 
 
 

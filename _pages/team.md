@@ -12,11 +12,20 @@ permalink: /people/
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/NCjay2.jpeg){: style="width: 350px; float: left; border: 10px"}
 ### Nancy Chen - *Principal Investigator*
 
-Nancy is an evolutionary biologist interested in the genomic basis of contemporary evolution in natural populations. Her research integrates genomics and long-term demographic studies to characterize the evolutionary processes shaping patterns of variation across the genome through space and time. Nancy earned her Ph.D. with Andy Clark and John Fitzpatrick at Cornell University and then did a postdoc with Graham Coop at UC Davis before moving to Rochester. She is committed to promoting equity and inclusion in STEM. Nancy enjoys running, hiking, cooking, and playing board games. [CV](https://www.dropbox.com/scl/fi/yw6jafo0c2m6dh66blm7b/NancyCVJul2024separated.pdf?rlkey=ii5nhy35rdetlu0inpk86vdo1&dl=0) 
+Nancy is an evolutionary biologist interested in the genomic basis of contemporary evolution in natural populations. Her research integrates genomics and long-term demographic studies to characterize the evolutionary processes shaping patterns of variation across the genome through space and time. Nancy is committed to promoting equity and inclusion in STEM. She enjoys running, hiking, cooking, and playing board games. [CV](https://www.dropbox.com/scl/fi/m391iplkm13to9ksvyyx4/NancyCVOct2025.pdf?rlkey=5rug7fx6psb6p1nqzkytbppqh&dl=0) 
 
-Email: nancy.chen@rochester.edu <br>
-Twitter: [@popgenchen](https://twitter.com/popgenchen) <br>
+Email: popgenchen@ucla.edu <br>
 Pronouns: she/her/hers
+<br><br><br><br><br>
+
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/DavidTian.jpg){: style="width: 350px; float: left; border: 10px"}
+### David Tian - *Postdoctoral Scholar*
+
+David is an evolutionary biologist interested in how small populations evolve and developing predictive models for their conservation and management. He is integrating genomic, pedigree, and life-history data in Florida Scrub-Jays to investigate how gene flow impacts phenotypes, fitness, and population dynamics over time. He hopes that by taking advantage of naturally occurring cases of multigenerational immigration into small populations, we can improve decision making surrounding genetic rescue of endangered populations. David earned his PhD in Chris Martin’s lab at UC Berkeley. His dissertation investigated the genomic consequences of long-term small population size and isolation in the Devils Hole pupfish. In his free time, David enjoys cycling, cooking, and hiking with his dog Cosmo. For more, see [David’s website](https://tiandavid.github.io/).
+
+Pronouns: he/him/his
+
 <br><br><br>
 
 
@@ -45,55 +54,21 @@ As a PhD student in the Chen lab, Faye is interested in using genomics, computat
 
 Pronouns: she/her/hers
 
-<br><br><br><br>
-
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/JeremySummers.jpg){: style="width: 350px; float: left; border: 60px"}
-### Jeremy Summers - *Graduate Student*
-
-Jeremy is a PhD student interested in the causes of population decline and the role of dispersal in demographic and evolutionary trajectories. Using population level demography, individual fitness variation, and population genetics, he is investigating how dispersal into preserved Florida Scrub-Jay habitat contributes to population growth and levels of genetic variation. Jeremy is also interested in teaching evolutionary biology with an emphasis on diversity at every level of organization and the ways humans shape and interact with our local ecosystems. For more, see [Jeremy’s website](https://jsummerspopbio.wordpress.com/).
-
-Pronouns: he/him/his
-
-<br><br><br><br><br><br>
-
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/AbbyEckert.png){: style="width: 350px; float: left; border: 10px"}
-### Abby Eckert - *Undergraduate Researcher*
-
-Abby is a current sophomore majoring in Ecology and Evolution and Environmental Studies. This is her first semester in the lab and she is excited to learn more about population genetics, data analysis, and coding in R. She is especially interested in conservation. Abby is looking forward to implementing what she has learned in her classes. Outside of the lab, she enjoys crocheting, taking care of her houseplants, sailing, and doing artsy things. 
-
-Pronouns: she/her/hers
-
-<br><br><br><br><br><br><br><br><br>
-
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/JennaSavino.png){: style="width: 350px; float: left; border: 10px"}
-### Jenna Savino - *Undergraduate Researcher*
-
-Jenna is an undergraduate majoring in Molecular Genetics and minoring in American Sign Language. She is very interested in how genetic variation affects populations and quantifying biological data utilizing various computer programming languages. Outside of the classroom, she enjoys listening to music and playing Minecraft. 
-
-Pronouns: she/her/hers
-
-<br><br><br><br><br><br><br><br><br><br><br>
-
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/DashiEspurr.jpg){: style="width: 350px; float: left; border: 60px"}
-### Dashi and Espurr - *Lab pets*
-
-Dashi and Espurr are second-year cats with broad interests including displays of affection, sleeping, and occasionally learning tricks. Dashi is our resident entomologist and wants to investigate the culinary uses of insects, if his lab-mate Jeremy would let him catch any. Espurr is specializing in botany and has discovered that frequent face rubbing with plants triggers a strong purr response in herself.
-
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Minka.jpeg){: style="width: 350px; float: left; border: 60px"}
 ### Minka - *Lab pet*
 
 Minka is a springerdoodle who loves chewing on sticks, is obsessed with balls, and wants to play with every person/dog/cat she meets.
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Gus.jpg){: style="width: 350px; float: left; border: 60px"}
 ### Gus - *Lab pet*
 
 Gus is a rambunctious, teen-aged (in dog years) rescue pup who wants nothing more than to lie on your lap so that you are forced to write while he takes a well-earned nap.
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 #### **The Chen lab is recruiting motivated undergrads, grad students, and postdocs. Please contact me if you're interested in joining the lab!**
 <br>
@@ -109,7 +84,11 @@ Jonathan Chow (undergraduate) - became a MS student at Georgia Tech
 
 Tiffany Dias (undergraduate) - became a PhD student at the University of Michigan
 
+Abby Eckert (undergraduate) - became an environmental scientist 
+
 Elizabeth Flesch (postdoc) - became a biologist at USFWS
+
+Alex Gaston (undergraduate) - became a MS student at Rutgers
 
 Xuewen Geng (undergraduate) - became a PhD student a UWaterloo
 
@@ -135,6 +114,8 @@ Daniel Seidman (postdoc)
 
 Gladiana Spitz (undergraduate) - became a PhD student at CU Boulder
 
+Jeremy Summers (PhD student) - became a postdoc at Virginia Tech
+
 Ceylin Zeybek (visiting undergraduate) - became a PhD student at Kyoto University
 
 Bo Zhou (undergraduate) - became a MEng student at UC Berkeley
@@ -147,8 +128,10 @@ Ph.D. rotation students: Maria Isabel Castano, Rose Driscoll, Matthew Lindsay
   <img src="/images/teampic/Tamanna.jpeg" width="250" />
   <img src="/images/teampic/Michaela.png" width="250" />
   <img src="/images/teampic/Tiffany.jpg" width="250" /> 
+  <img src="/images/teampic/AbbyEckert.png" width="250" />
   <img src="/images/teampic/ElizabethFlesch.jpg" width="250" />
   <img src="/images/teampic/Xuewen.jpg" width="250" /> 
+  <img src="/images/teampic/AlexGaston.jpg" width="250" />
   <img src="/images/teampic/KristinHardy.jpg" width="250" /> 
   <img src="/images/teampic/Martha.jpeg" width="250" />
   <img src="/images/teampic/BlueWarner.jpg" width="250" /> 
@@ -159,6 +142,7 @@ Ph.D. rotation students: Maria Isabel Castano, Rose Driscoll, Matthew Lindsay
   <img src="/images/teampic/Sid.JPG" width="250" />
   <img src="/images/teampic/DanielSeidman.jpg" width="250" />
   <img src="/images/teampic/Gladiana.jpg" width="250" />
+  <img src="/images/teampic/JeremySummers.jpg" width="250" />
   <img src="/images/teampic/ceylin.JPG" width="250" />
 </p>
 

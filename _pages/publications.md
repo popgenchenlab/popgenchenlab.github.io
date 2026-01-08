@@ -15,6 +15,9 @@ permalink: /publications/
 <br>
 
 ### **Peer-reviewed**
+Edwards SV, Fang B, Khost D, Kolyfetis GE, Cheek RG, DeRaad D, **Chen N**, Fitzpatrick JW, McCormack JE, Funk WC, Ghalambor CK, Garrison E, Guarracino A, Li H, Sackton TB. Comparative population pangenomes reveal unexpected complexity and fitness effects of structural variants. [*Science* 390: eadw1931](https://doi.org/10.1126/science.adw1931).<br>
+<br>
+
 Linderoth T, Deaner L, **Chen N**, Bowman R, Boughton R, Fitzpatrick SW. 2025. Translocations spur population growth but fail to prevent genetic erosion in imperiled Florida Scrub-Jays. [*Current Biology* 35(6): 1391-1399.e6.](https://doi.org/10.1016/j.cub.2025.01.058)<br>
 <br>
 
@@ -101,7 +104,10 @@ Canfield MR, Greene E, Moreau CS, **Chen N**, Pierce NE. 2008. Exploring phenoty
 <br>
 
 ### **Preprints**
-Edwards SV, Fang B, Khost D, Kolyfetis GE, Cheek RG DeRaad D, **Chen N**, Fitzpatrick JW, McCormack JE, Funk WC, Ghalambor CK, Garrison E, Guarracino A, Li H, Sackton TB. Comparative population pangenomes reveal unexpected complexity and fitness effects of structural variants. [*bioRxiv* doi: https://doi.org/10.1101/2025.02.11.637762](https://doi.org/10.1101/2025.02.11.637762).<br>
+Cosgrove EJ, Tringali A, Fitzpatrick JW, Bowman R, Clark AG, **Chen N**. Genome-wide associations of fitness components reveal antagonistic pleiotropy and sexual conflict in the Florida Scrub-Jay. [*bioRxiv* doi: https://doi.org/10.1101/2025.09.09.673786](https://doi.org/10.1101/2025.09.09.673786).<br>
+<br> 
+
+**Summers J**, **Jones BSCL**, Cosgrove EJ, Takley TD, Barve S, Bowman R, Fitzpatrick JW, **Chen N**. Context-Dependent Fitness Outcomes of Helping in the Cooperatively-Breeding Florida Scrub-Jay (*Aphelocoma coerulescens**). [*bioRxiv* doi: https://doi.org/10.1101/2025.07.21.666021](https://doi.org/10.1101/2025.07.21.666021).<br>
 <br>
 
 Nguyen TN, Cosgrove EJ, **Chen N**, Lehr N, Lokey MG, Beaudry FE, Fitzpatrick SW, Bowman R, Miller K, Fitzpatrick JW, Clark AG. Whole-genome sequencing across space and time reveals impact of population decline and reduced gene flow in Florida Scrub-Jays. [*bioRxiv* doi: https://doi.org/10.1101/2024.11.05.622154](https://doi.org/10.1101/2024.11.05.622154).<br>

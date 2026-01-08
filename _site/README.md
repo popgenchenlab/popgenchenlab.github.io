@@ -1,6 +1,6 @@
 # Chen Lab Website
 
-This is the website of the Chen Lab at the University of Rochester
+This is the website of the Chen Lab at UCLA
 
 This website template was adapted from the wonderful Allan Lab website (https://github.com/allanlab/allanlab)
 

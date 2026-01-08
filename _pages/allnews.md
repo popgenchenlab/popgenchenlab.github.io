@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: textlay
-excerpt: "Chen Lab at the University of Rochester"
+excerpt: "Chen Lab at UCLA"
 sitemap: false
 permalink: /allnews.html
 ---
